@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "4OQ-5p-WIV"; */
+"4OQ-5p-WIV.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "List"; ObjectID = "8MF-Xm-Fag"; */
+"8MF-Xm-Fag.title" = "List";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "MbR-cc-4Gu"; */
+"MbR-cc-4Gu.text" = "Subtitle";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "O7w-Wp-Ohz"; */
+"O7w-Wp-Ohz.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jjw-ua-hnu"; */
+"jjw-ua-hnu.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "lUC-Zd-Ygp"; */
+"lUC-Zd-Ygp.title" = "Map";

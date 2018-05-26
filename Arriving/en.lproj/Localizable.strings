@@ -1,0 +1,122 @@
+/* 
+  Localizable.strings
+  Arriving
+
+  Created by anouk on 05/09/17.
+  Copyright © 2017 anouk. All rights reserved.
+*/
+
+"english" = "English";
+"french" = "Français";
+"german" = "Deutsch";
+"arabic" = "العربية";
+"farsi" = "فارسی";
+"kurdish" = "سۆرانی";
+
+"doctor_gp_ar" = "Doctor (GP, Arabic)";
+"doctor_gp_fa" = "Doctor (GP, Farsi)";
+"doctor_gyn_ar" = "Doctor (Gynaecologist, Arabic)";
+"doctor_gyn_fa" = "Doctor (Gynaecologist, Farsi)";
+"counseling" = "Counseling";
+"german_classes" = "German Courses";
+"lawyers" = "Lawyers";
+"police" = "Police";
+"public_auth" = "Public Authorities";
+"public_libraries" = "Public Libraries";
+"public_transport" = "Public Transport";
+"shopping_and_food" = "Shopping and Food";
+"sports" = "Sports and Freetime";
+"wifi" = "Wifi";
+
+"app_name" = "Arriving";
+"categories" = "Categories";
+"all_categories" = "All";
+"offline_message" = "You appear to be offline. Connect to the internet to view locations.";
+"drawer_open" = "open";
+"drawer_close" = "close";
+"hint_search" = "hint";
+"loading" = "Loading, please wait...";
+"region_loaded" = "Region downloaded successfully.";
+"all" = "All Locations";
+"next" = "Continue";
+"title_screen_one" = "Welcome!";
+"title_screen_two" = "Overview";
+"map" = "Map";
+"list" = "List";
+"info" = "Info";
+"contact" = "Contact";
+"language" = "Language";
+"about" = "About";
+
+"screen_one" = "The Arriving in Berlin App is a digital map containing helpful information for refugees and newcomers to Berlin.";
+"screen_two" = "You can use the map or the list view to find places. Use the search box to find specific information. The map also helps you navigate to a destination and even works when you are not online.";
+
+"info_general" = "The Arriving in Berlin App offers lots of useful information for refugees and newcomers to Berlin. The following explanation shows you the meaning of the icons on the map.";
+"info_internet" = "No Internet access? There are many public places in Berlin where you can use free Wi-Fi, for example at many subway stations, in public libraries and in cafés. You can also find an overview of free Wi-Fi access with this map: http://www.hoerbuecher-blog.de/wifi/.";
+"info_counseling"= "Counseling – A great many civil society organizations and initiatives offer advice and information for refugees in Berlin. These advisory services have various focal points and can help you resolve a number of issues. For example, some can explain your rights to you and help you with the asylum procedure. Others will translate documents and give you support when you go to government or public offices. Some offer specific psychological support, others offer German courses.";
+"info_doctors" = "Doctors – Here you can search for doctors, including gynecologists, who speak Farsi or Arabic.";
+"info_laywers" = "Lawyers – These attorneys are specialized in asylum and residency law.";
+"info_libraries"= "Libraries – Public libraries are open to you where you can work, read and use the Internet. They are located in a number of Berlin districts.";
+"info_german_courses" = "German courses – Many organizations offer free German courses. This also includes public institutions such as the Berlin Volkshochschulen. If you are living in refugee housing, the supervisors there can help you find a German course.";
+"info_gov" = "Government offices –  In this category you can find various offices that are important for refugees such as the Federal Office for Migration and Refugees (BAMF) and the State Office for Refugee Affairs (LAF).";
+"info_sports" = "Sporting and leisure activities – Whether you enjoy swimming, walking or relaxing, Berlin offers plenty of athletic and leisure time options. This category contains a selection of them.";
+"info_shopping" = "Shopping - Cafés, bakeries and supermarkets that sell Halal food are shown in this category.";
+"info_transport" = "Transport - You will find important means of transport, stops and stations and bus lines here.";
+
+"info_final" = "Have we forgotten any interesting places? If so, please send us a message.";
+"about_one" = "The Arriving in Berlin App is a digital map containing helpful information for refugees and newcomers to Berlin. Developed by Haus der Kulturen der Welt and Refugees on Rails, kindly supported by the Friends of Haus der Kulturen der Welt.";
+"about_two" = "The app is based on the mapping project Arriving in Berlin - A map made by refugees by Haus Leo (Berliner Stadtmission) and Haus der Kulturen der Welt. It is part of the initiative Berlin Mondiale.";
+"about_three" = "The app is based on the Mapbox SDK framework and is open source (documentation on GitHub)";
+"about_four" = "All icons have been developed by the participants of the mapping project. (Source: Freepik from www.flaticon.com)";
+
+"main_title"="Arriving in Berlin";
+"contact_text" = "Do you have question or comments? Or have we forgotten any interesting places? If so, please send us a message";
+"send_email"="Send Email";
+"download_button_message" = "You are about to download 90MB of data. Make sure you are connected to wifi. Would you like to continue?";
+"cancel"="Cancel";
+"continue_button" = "Continue";
+"download_again_message" = "Would you like to update your offline map? This will download 90MB of data. Make sure you are connected to wifi. Would you like to continue?";
+"google_maps_popup" = "This will redirect you to Google Maps or to Apple maps.";
+"no_location" = "No location found";
+"select_category" = "Select a Category from the menu on the left.";
+"terms_text" = "To use the Arriving in Berlin app, please read and accept the privacy policy as well as the general terms of business of the Arriving in Berlin app. By selecting “Accept” you declare your consent and can continue. If you do not wish to continue and wish to close the app, select Decline and Close App.";
+"terms_agree" = "Accept";
+"terms_decline" = "Decline and Close";
+"info_wifi_text" = "You can also use the Arriving in Berlin app to find open and free networks of the Berlin Freifunknetz";
+"back" = "Back";
+
+
+"legal_title" = "Legal Notice";
+"legal_text" = "<div><b>Haus der Kulturen der Welt</b></br>John-Foster-Dulles-Allee 10</br>10557 Berlin</br>telephone +49 30 397 87–0</br>telefax +49 30 394 86 79</br>e-mail: info@hkw.de</br></br><b>The Haus der Kulturen der Welt is a business division of the Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH.</b></br>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH</br>Schöneberger Straße 15 </br>10963 Berlin </br>telephone +49 30 26 397-0</br>telefax +49 30 26 397-397</br>e-mail: info@kbb.eu</br></br><b>KBB’s Managing Directors:</b></br>Dr. Thomas Oberender (Director Berliner Festspiele)</br>Charlotte Sieben (Managing Director, KBB GmbH)</br>Dr. Bernd M. Scherer (Director Haus der Kulturen der Welt)</br>Dieter Kosslick (Director Internationale Filmfestspiele Berlin)</br>Please address written correspondence to the managing directors to</br>Schöneberger Straße 15</br>10963 Berlin</br></br><b>Person responsible for content pursuant to section 55 paragraph 2 RStV</b></br>Bernd Scherer</br>John-Foster-Dulles-Allee 10</br>10557 Berlin</br>e-mail: scherer@hkw.de</br></br><b>Commercial Register</b></br>Amtsgericht Charlottenburg</br>Commercial register number:</br>96 HRB 29357</br></br><b>VAT identification number under Section 27a of the Value Added Tax Act</b></br>DE 136 78 27 46 </div>";
+
+"privacy_title" = "Privacy Policy";
+"privacy_text" = "Arriving in Berlin (subsequently <i>we</i>) takes the protection of your personal data very seriously. These data protection regulations inform you about how we handle your personal data.</br></br><b>Scope</b></br>These data protection regulations apply solely to the use of the app <i>Arriving in Berlin</i>, subsequently <i>App</i>. If you use any other App or visit any other website, the data protection regulations of the respective website provider apply. This includes cases when we refer you to a third party website via a link or when a service from a third party is embedded in our App. In such cases, we recommend that you inform yourself on the linked website about how they handle personal data.</br></br><b>Personal Data</b></br>Personal data is information relating to the personal or factual circumstances of an identified or identifiable natural person. Your personal data includes all information which can lead to you being identified such as, for example, your name, address, telephone number or e-mail address.</br></br><b>Collection and Disclosure of Data</b></br>The App uses Mapbox Software Development Kits. Mapbox is a company based in the United States. Thus, the collection and disclosure of your data takes place in the United States. The App collects and discloses to Mapbox the following data:</br>• Session start: The initial use of the application</br>• Map load: When a map is loaded, what map is loaded, and at what zoom level</br>• Map pan: When a map is panned</br>• Map zoom: When a map is zoomed</br>• Map tilt and Rotate: When a map perspective is changed</br>• Location: Intermittent device location and timestamp</br>• Speed and heading: Just that</br>• Visits Dwell-time and location</br></br>The collected location data is not associated with any identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers.</br></br>With every event the App reports the following data to Mapbox:</br>• Session and instance identifiers: UUIDs recording the installation of the app and its specific use, including the IDFV in iOS</br>• App ID: Application identifier</br>• Device data OS type, device model</br>• Connectivity data: Whether the device is connected via wifi, CAT5, or cellular data</br>• View data: The device orientation, screen resolution, and font scaling</br>•Timestamp: the time and date of the event</br>The above event data is collected in batch and reported to Mapbox asynchronously.</br></br><b>Purposes of Data Processing</b></br>Mapbox uses the data collected for internal diagnostic and analytic purposes, to improve its mapping products and services and to provide its services to end users of its customers.</br>For more information about Mapbox’s privacy policies, visit https://www.mapbox.com/privacy/</br></br><b>Security of Collected Data</b></br>Personal data exchanged between you and Mapbox via our App is transmitted strictly via secure connections in accordance with the latest technical standards.</br>For your own personal security we recommend that you protect your password and mobile phone against access by unauthorized persons.</br></br><b>Opt-Out</b></br><u>If you give or have given us consent to collect, process or use your data, you can revoke this consent at any time with effect for the future. You can do this by activating the opt-out feature in the lower left corner of the map.</u></br></br><b>Right to Information, Erasure and Rectification</b></br>You have a free of charge right to information in respect of the personal data held about you and a further right of rectification of inaccurate information, blocking and erasure.If you wish to receive information about your personal data and/or its rectification or erasure, or if you have any further questions about the use of the personal data you have given to us, please contact the data protection officer at the KBB GmbH via datenschutz@kbb.eu.</br></br><b>Validity of this Data Protection Policy</b></br>This data protection policy is currently valid and dates May 2017.</br></br><b>Responsible Parties</b></br>The collection, processing and use of your data are the responsibility of:</br>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH</br>Schöneberger Straße 15</br>10963 Berlin</br>telephone +49 30 26 397-0</br>telefax +49 30 26 397 397</br>e-mail: info@kbb.eu</br></br>Data Protection Officer of KBB: datenschutz@kbb.eu</br></br>";
+
+"terms_title" = "Terms of Use";
+"terms_details_txt" = "<b>Arriving in Berlin</b> is a mobile application by Haus der Kulturen der Welt and Refugees on Rails kindly supported by the Friends of Haus der Kulturen der Welt. It provides helpful information for refugees and newcomers to Berlin.</br></br>Users of our Apps must be 13 or above. If you are under the age of 13 please stop using our App.</br>We strive to update the map every now and then. More information when the last update took place…";
+
+"offline_message_2" = "You appear to be offline. Go online to view route!";
+"project_title" = "Project";
+"project_text" = "The Arriving in Berlin App is a digital map containing helpful information for refugees and newcomers to Berlin. Find out more about the project here https://arriving-in-berlin.de/app/";
+"categories" = "Categories";
+"all_categories"= "All";
+"offline_message" = "You appear to be offline. Connect to the internet to view locations";
+"drawer_open" = "open";
+"drawer_close" = "close";
+"hint_search" = "hint";
+"loading" = "Loading, please wait...";
+"region_loaded" = "Region downloaded successfully";
+"all"="All Locations";
+"next"="Continue";
+"title_screen_one"= "Welcome!";
+"title_screen_two" = "Overview";
+"map" = "Map";
+"list" = "List";
+"info" = "Info";
+"contact" = "Contact";
+"language" = "Language";
+"about" = "About";
+"email_error" = "Email Error";
+"email_error_message" = "There is no email client available. Please email directly: arriving-in-berlin@hkw.de";
+
+

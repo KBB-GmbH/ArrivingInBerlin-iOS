@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  Arriving
+
+  Created by anouk on 05/09/17.
+  Copyright © 2017 anouk. All rights reserved.
+*/
+
+"english" = "English";
+"french" = "Français";
+"german" = "Deutsch";
+"arabic" = "العربية";
+"farsi" = "فارسی";
+"kurdish" = "سۆرانی";
+
+
+"doctor_gp_ar" = "Docteur (généraliste, arabe)";
+"doctor_gp_fa" = "Docteur (généraliste, farsi)";
+"doctor_gyn_ar" = "Docteur (gynécologue, arabe)";
+"doctor_gyn_fa" = "Docteur (gynécologue, farsi)";
+"counseling" = "Consultation";
+"german_classes" = "Cours d'allemand";
+"lawyers" = "Avocats";
+"police" = "Police";
+"public_auth" = "Autorités Publiques";
+"public_libraries" = "Bibliothèque publique";
+"public_transport" = "Public Transport";
+"shopping_and_food" = "Commercial et de l'Alimentation";
+"sports" = "Sports et loisirs";
+"wifi" = "Wifi";
+
+
+"app_name"="Arriving";
+"categories"="Catégories";
+"all_categories"="Tous";
+"offline_message"="Vous êtes déconnecté. Connectez votre smartphone à Internet pour utiliser la carte.";
+"drawer_open"="Ouvrir";
+"drawer_close"="Fermer";
+"hint_search"="Conseil";
+"loading"="La carte charge, un instant svp...";
+"region_loaded"="La carte a été téléchargée avec succès";
+"all"="Tous";
+"next"="Continuer";
+"title_screen_one"="Bienvenue!";
+"title_screen_two"="Introduction";
+"map"="Carte";
+"list"="Liste";
+"info"="Info";
+"contact"="Contact";
+"language"="Langue";
+"about"="À propos";
+
+"screen_one"="Arriving in Berlin – App est une carte digitale contenant des informations utiles pour les réfugiés et les nouveaux arrivants à Berlin.";
+"screen_two"="Utilisez la carte ou la liste pour trouver les endroits. La case „rechercher“ vous aide à trouver des informations spécifiques. La carte aide aussi à vous guider à une destination et fonctionne même si vous êtes hors ligne.";
+"info_general"="„Arriving in Berlin – App“ offre de nombreuses informations utiles pour réfugiés et nouveaux arrivants à Berlin. Les informations suivantes expliquent la signification des icônes sur la carte.";
+"info_internet"="Pas d\'internet? Il existe de nombreux endroits à Berlin où vous pouvez utiliser gratuitement le Wi-Fi, par exemple les stations de métro, les bibliothèques publiques et les cafés. Vous trouverez aussi un aperçu des accès Wi-Fi sur cette carte : http://www.hoerbuecher-blog.de/wifi";
+"info_counseling"="Points conseil : De nombreuses organisations et initiatives de la société civile offrent des conseils et des informations aux réfugiés arrivant à Berlin. Ces points conseil se concentrent sur différents thèmes et peuvent vous aider sur de nombreuses questions. Par exemple sur le droit et la demande d\'asile. Ou ils traduisent des documents et vous aide pour les démarches administratives. Certains proposent des aides psychologiques spécifiques, d\'autres des cours d\'allemand.";
+"info_doctors"="Médecins - Dans cette catégorie, vous pouvez trouver des médecins, en particulier des gynécologues ou des médecins parlant farsi ou arabe.";
+"info_laywers"="Avocats – Ces avocats sont spécialisés dans les questions du droit d\'asile et de résidence.";
+"info_libraries"="Bibliothèques – Vous aussi avez accès aux bibliothèques pour travailler, lire ou utiliser l\'internet. Vous les trouverez dans les différents quartiers de Berlin.";
+"info_german_courses"="Cours d\'allemand – De nombreuses organisations offrent des cours d\'allemand gratuits. Cela inclut aussi des institutions publiques comme les „Volkshochschule“ (école populaire). Si vous habitez dans une structure pour réfugiés, les encadrants peuvent vous aider à trouver un cours d\'allemand.";
+"info_gov"="Administration – Dans cette catégorie, vous trouverez les bureaux importants pour les réfugiés comme l\'office fédéral pour les migrations et les réfugiés (BAMF) et le bureau d\'État pour les affaires des réfugiés (LAF)";
+"info_sports"="Sport et loisirs – Nager, se promener ou se détendre : Berlin offre de nombreuses possibilités pour le sport et la détente. Cette catégorie contient une sélection de ces possibilités.";
+"info_shopping"="Faire les courses – Les cafés, boulangeries et supermarchés qui offrent des produits halal sont montrés dans cette catégorie.";
+"info_transport"="Transports – Vous trouverez des informations sur les transports, les arrêts, les gares et les lignes de bus ici.";
+"info_final"="Avons-nous oublié des lieux intéressants? Si oui, envoyez-nous un message!";
+"about_one"="Arriving in Berlin – App est une carte digitale contenant des informations utiles pour les réfugiés et les nouveaux arrivants à Berlin. Développé par la „Haus der Kulturen der Welt“ en coopération avec Refugees on Rails. Avec le soutien de l\'association des amis de la Haus der Kulturen der Welt e.V.";
+"about_two"="Cette app est basé sur le projet de mapping Arriving in Berlin - a map made by refugees de la Haus der Kulturen der Welt et de la Haus Leo (Berliner Stadtmission). Ce projet fait partie de l\'initiative Berlin Mondiale.";
+"about_three"="L\'application utilise Mapbox SDK et est en open source. (documentation sur GitHub)";
+"about_four"="Toutes les icônes ont été développées par les participant(e)s du projet de Mapping (Source: Freepik de www.flaticon.com)";
+
+"main_title"="Arriving in Berlin";
+"contact_text"="Avez-vous des questions ou des commentaires? Ou avons-nous oublié des lieux intéressants? Si oui, envoyez-nous un message.";
+"send_email"="Envoyer";
+"download_button_message"="Le volume des téléchargements correspond à 90 MB. Vérifiez que vous soyez bien connecté à un réseau wifi. Ce téléchargement vous donne accès uniquement à la carte en langue allemande. Souhaitez-vous continuer?";
+"cancel"="Annuler";
+"continue_button"="Continuer";
+"download_again_message"="Souhaitez-vous mettre à jour votre carte offline? Ceci implique le téléchargement de 90 MB de données. Vérifiez que vous soyez bien connecté à un réseau wifi. Souhaitez-vous continuer?";
+"google_maps_popup"="Vous allez être redirigé vers Google Maps ou Apple Maps.";
+"no_location"="No location found";
+"select_category"="Sélectionnez une catégorie dans le menu à gauche.";
+"terms_text"="Pour utiliser l\'application „Arriving in Berlin“, veuillez lire et accepter la déclaration de confidentialité sur la protection de données ainsi que les conditions générales. Avec „accepter“, vous donnez votre accord et pouvez continuer. Si vous ne souhaitez pas aller plus loin et désirez fermer l\'application, choisissez Refuser et fermer.";
+"terms_agree"="Accepter";
+"terms_decline"="Refuser et fermer";
+
+"info_wifi_text" = "Avec l\'application „Arriving in Berlin“, trouvez en plus des accès libres et gratuits aux réseaux internet de Berlin (Freifunk).";
+"back" = "Retour";
+"legal_title" = "Mentions légales";
+"legal_text" = "<b>Haus der Kulturen der Welt</b> (<i>La maison des cultures du monde</i>)</br>Adresse:</br>John-Foster Dulles-Allee 10</br>10557 Berlin</br>Téléphone 0049 30 397 87-0</br>Fax 0049 30 394 86 79</br>Adresse-mail: info@hkw.de</br></br><b>La <i>Haus der Kulturen der Welt</i> est une divison de la <i>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH </i> (<i>SARL des évènements culturels de la fédération à Berlin</i>)</b>.</br><i>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH</i></br>Schöneberger Straße 15 10963 Berlin </br>Téléphone 0049 30 26 397-0 </br>Fax 0049 30 26 397-397</br>Adresse e-mail: info@kbb.eu</br></br><b>Les directeurs de la <i>KBB</i></b></br>Dr. Thomas Oberender (Directeur <i>Berliner Festspiele</i>)</br>Charlotte Sieben (Directrice commerciale <i>KBB GmbH</i>)</br>Dr. Bernd M. Scherer (Directeur <i>Haus der Kulturen der Welt</i>)</br>Dieter Kosslick (Directeur <i>Internationale Filmfestspiele Berlin</i>)</br>Vous pouvez contacter les directeurs de la <i>KBB</i> à l’adresse suivante:</br>Schöneberger Straße 15  10963 Berlin</br></br><b>Personne responsable selon l’article 55-2 du RStV</b></br>Bernd Scherer</br>John-Foster-Dulles-Allee 10</br>10557 Berlin</br>Adresse-mail: scherer@hkw.de</br></br><b>Registre du commerce (équivalent au RCS)</b></br>Tribunal d’instance de Charlottenburg</br> Numéro RCS 96 HRB 29357</br></br><b>Numéro de TVA intercommunautaire selon l’article 27a de la loi relative à la taxe sur le chiffre d’affaires </b></br>DE 136 78 27 46";
+"privacy_title"="Protection des données personnelles";
+"privacy_text"="<b><i> Arriving in Berlin</i>  (ci\-après dénommée <i> nous </i>)</b> est soucieuse de la protection de vos données personnelles. Cette déclaration de protection de données vous informe de notre gestion de vos données personnelles.</br></br><b>Domaine d’application</b></br>Cette déclaration de protection de données s’applique uniquement à l’utilisation de l’application mobile <i> Arriving in Berlin </i>, ci-après dénommée <i> App </i>. Si vous utilisez une application mobile tierce ou vous visitez un site web tiers, la déclaration de protection de données de l’opérateur de cette application mobile/ce site web s’applique. Cela s’applique également  si nous faisons référence à un site web tiers ou quand un service tiers est implémenté dans notre App. Nous vous invitons à consulter les politiques de protection des données personnelles de la page liée afin de prendre connaissance des informations qui sont collectées.</br></br><b>Données personnelles</b></br>Les données personnelles sont toutes les informations concernant la situation personnelle ou professionnelle d’une personne physique déterminé ou déterminable. Vos données personnelles comprennent toute information permettant de vous identifier comme, par exemple, votre nom, adresse, numéro de téléphone ou adresse e-mail.</br></br><b>Collecte et exploitation des données</b></br>L’App emploie des kits de développement de <i>Mapbox</i>. L’App collectionne et transmet à <i>Mapbox</i> les données suivantes:</br>•    Démarrage de la session</br>•    Chargement de la carte: Quand la carte est chargée, quelle carte est chargée et à quelle niveau de zoom</br>•    Déplacement sur la carte</br>•    Zoom sur la carte</br>•    Changement de perspective et rotation de la carte</br>•    Géolocalisation avec horodatage</br>•    Vitesse et direction</br>•    Emplacement et temps de visite</br>Les données de géolocalisation collectées <b>ne sont pas associées à des informations permettant d’identifier une personne</b>, y compris le nom, l’adresse IP, l’adresse e-mail ou le numéro de téléphone.</br></br>A chaque consultation l’App transmet les données suivantes à <i> Mapbox </i>:</br>•    Identifiants de session et d’instance</br>•    Identifiant de l’application</br>•    Type de système d’exploitation et modèle de l’appareil</br>•    Type de connectivité: Wifi, CAT5, données cellulaires</br>•    Données d’affichage: Orientation, résolution et ajustement de l’écran</br>•    Horodatage</br></br>Les données susmentionnées sont collectionnées et transférées par un traitement <i> file transfert protocole </i> de manière asynchrone.</br></br><i>Mapbox</i> est une entreprise basée aux Etats Unis. L’utilisation de vos données a donc lieu aux Etats Unis.</br></br><b>Usage des données</b></br><i>Mapbox</i>  utilises ces données à des fins analytiques et pour des raisons de vérifications internes. <i>Mapbox</i> profite des données afin d’améliorer ses produits et services à ses clients et aux utilisateurs finaux.</br></br>Pour plus d’informations sur les politiques de protection des données personnelles de <i>Mapbox</i>, consultez le site: https://www.mapbox.com/privacy/</br></br><b>Sécurité des données collectées</b></br>Le transfert de vos données à <i>Mapbox </i> à l’aide de l’App se fait uniquement par des connexions sécurisées conformément aux standards techniques les plus récents. Nous vous recommandons de protéger votre mot de passe ainsi que votre téléphone portable des personnes non autorisées.</br></br><b>Refus de collecte des données</b></br>Vous pouvez à tout moment révoquer votre consentement à la collecte et utilisation de vos données en désactivant cette option dans les paramétrages de votre téléphone mobile. La révocation se fait en cochant l’option de désactivation en bas à gauche sur la carte de l’App. Cette révocation ne prendra effet que pour les futures consultations.</br></br><b>Droit d’accès, de suppression et de rectification</b></br>Vous disposez d’un droit d’accès et de rectification et d’opposition aux données personnelles vous concernant. Vous pouvez également demander la suppression de vos données personnelles. L’exercice de vos droits est gratuit.</br>Si vous souhaitez exercer vos droits ou que vous avez des questions concernant vos données personnelles, il vous suffit d’écrire en ligne à la personne en charge de la protection des données à datenschutz@kbb.eu</br></br><b>Validite</b></br>Cette déclaration de protection de données entre en vigueur en mai 2017.</br></br><b>Identité du responsable du traitement</b>Les données personnelles sont collectées par:</br></br><i> Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH </i></br></br>Adresse:</br>Schöneberger Straße 15</br>10963 Berlin</br>Téléphone 0049 30 26 397-0</br>Fax 0049 30 26 397 397</br>Adresse e-mail: info@kbb.eu</br></br>Personne en charge de la protection des données à la KBB: datenschutz@kbb.eu";
+
+"terms_title" = "Conditions générales d\'utilisation";
+"terms_details_txt" = "<i>Arriving in Berlin</i>  est une application mobile de la <i> Haus der Kulturen der Welt </i> et <i>Refugees on Rails</i> avec le soutien des amis de la <i> Haus der Kulturen der Welt </i>. L’application fournie les informations utiles pour des refugiés et immigrés à Berlin.</br></br>Les utilisateurs de cette application doivent être 13 ans ou plus. Pour utiliser l’application, vous devez accepter les conditions d’utilisation.</br></br><i>Arriving in Berlin</i>  fait de son mieux pour mettre à jour les informations données de temps en temps. Nous vous invitons à vous informer sur la dernière date de mise à jour en consultant la page suivante. https://arriving-in-berlin.de/impressum/arriving-in-berlin-app/";
+"offline_message_2"= "Connecter votre smartphone à internet pour utiliser cette fonctionnalité.";
+"project_title" = "Projet";
+"project_text" = "Arriving in Berlin – App est une carte digitale contenant des informations utiles pour les réfugiés et les nouveaux arrivants à Berlin. Pour en savoir plus sur le projet: https://arriving-in-berlin.de/app/";
+
+"email_error" = "Erreur";
+"email_error_message" = "Aucune boîte de messagerie n'a pu être trouvée. Veuillez utiliser l'adresse suivante pour nous contacter: arriving-in-berlin@hkw.de";
+
+
+
+

@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  Arriving
+
+  Created by anouk on 05/09/17.
+  Copyright © 2017 anouk. All rights reserved.
+*/
+
+"english" = "English";
+"french" = "Français";
+"german" = "Deutsch";
+"arabic" = "العربية";
+"farsi" = "فارسی";
+"kurdish" = "سۆرانی";
+
+
+"doctor_gp_ar" = "Allgemeinarzt (Arabisch)";
+"doctor_gp_fa" = "Allgemeinarzt (Farsi)";
+"doctor_gyn_ar" = "Frauenarzt (Arabisch)";
+"doctor_gyn_fa" = "Frauenarzt (Farsi)";
+"counseling" = "Beratungsstellen";
+"german_classes" = "Deutschkurse";
+"lawyers" = "Rechtsanwälte";
+"police" = "Polizei";
+"public_auth" = "Behörden";
+"public_libraries" = "Öffentliche Bibliotheken";
+"public_transport" = "Public Transport";
+"shopping_and_food" = "Einkaufen & Essen";
+"sports" = "Sport & Freizeit";
+"wifi" = "Wifi";
+
+"categories"="Kategorien";
+"all_categories"="Alle";
+"offline_message"="Sie sind offline. Verbinden Sie Ihr Smartphone mit dem Internet, um die Karte zu nutzen.";
+"drawer_open"="Öffnen";
+"drawer_close"="Schließen";
+"hint_search"="Tipp";
+"loading"="Karte wird geladen, bitte warten...";
+"region_loaded"="Die Karte wurde erfolgreich heruntergeladen.";
+"all"="Alle";
+"next"="Weiter";
+"title_screen_one"="Willkommen!";
+"title_screen_two"="Einführung";
+"map"="Karte";
+"list"="Liste";
+"info"="Info";
+"contact"="Kontakt";
+"language"="Sprache";
+"about"="About";
+"screen_one"="Arriving in Berlin - App ist eine digitale Karte mit hilfreichen Informationen für Geflüchtete und Neuankommende in Berlin.";
+"screen_two"="Nutzen Sie die Karte oder die Listenansicht, um Orte zu finden. Mithilfe des Suchfeldes können Sie ganz bestimmte Informationen suchen. Die Karte hilft Ihnen außerdem, zu einem Ziel zu navigieren und funktioniert auch, wenn Sie offline sind.";
+"info_general"="Arriving in Berlin – App bietet viele nützliche Informationen für Geflüchtete und Neuankommende in Berlin. Die folgende Erklärung zeigt Ihnen, welche Bedeutung die Icons auf der Karte haben.";
+"info_internet"="Kein Internet? In Berlin gibt es viele öffentliche Plätze, wo Sie kostenlos WIFI nutzen können – so zum Beispiel an vielen U-Bahnhöfen, in öffentlichen Bibliotheken und Cafés. Einen Überblick für kostenlosten WIFI-Zugang bietet außerdem diese Karte (http://www.hoerbuecher-blog.de/wifi/).";
+"info_counseling"="Beratungsstellen - Viele zivilgesellschaftliche Organisationen und Initiativen bieten Beratungen und Informationen für Geflüchtete in Berlin an. Diese Beratungsstellen haben unterschiedliche Schwerpunkte und können Ihnen in vielen Fragen weiterhelfen. Zum Beispiel erklären sie Ihnen Ihre Rechte und helfen beim Asylverfahren. Oder sie übersetzen Dokumente und unterstützen Sie bei Behördengängen. Manche bieten spezielle psychologische Hilfe an, andere wiederum Deutschkurse.";
+"info_doctors"="Ärzte – In dieser Kategorie finden Sie Ärzte, die Farsi oder Arabisch sprechen, sowie Frauen- und Kinderärzte.";
+"info_laywers"="Anwälte – Diese Anwälte haben sich auf das Asyl- und Aufenthaltsrecht spezialisiert.";
+"info_libraries"="Bibliotheken – Auch Sie haben Zugang zu öffentliche Bibliotheken, um zu arbeiten, zu lesen und das Internet zu nutzen. Sie finden sie in verschiedenen Berliner Bezirken.";
+"info_german_courses"="Deutschkurse – Viele Organisationen bieten kostenlose Deutschkurse an. Dazu gehören auch staatliche Einrichtungen wie die Berliner Volkshochschulen. Wenn Sie in einer Unterkunft für Geflüchtete wohnen, helfen Ihnen die Betreuerinnen und Betreuer weiter, um einen Deutschkurs zu finden.";
+"info_gov"="Behörden –  In dieser Kategorie finden Sie verschiedene Behördenstellen, die für Geflüchtete wichtig sind, wie das Bundesamt für Flüchtlinge (BAMF) oder das Landesamt für Flüchtlingsangelegenheiten (LAF).";
+"info_sports"="Sport und Freizeit – Egal ob Schwimmen, Spazieren oder Entspannen: Berlin bietet viele Sport- und Freizeitmöglichkeiten. Eine Auswahl finden Sie in dieser Kategorie.";
+"info_shopping"="Einkaufen - Cafés, Bäckereien oder Supermärkte, die Halal-Lebensmittel verkaufen, sind in dieser Kategorie dargestellt.";
+"info_transport"="Transport - Wichtige Transportmittel, Haltestellen und Buslinien finden Sie hier.";
+"info_final"="Gibt es interessante Orte, die wir vergessen haben? Dann schreiben Sie uns einfach eine Nachricht.";
+"about_one"="“Arriving in Berlin - App” ist eine digitale Karte mit hilfreichen Informationen für Geflüchtete und Neuankommende in Berlin. Entwickelt vom Haus der Kulturen der Welt in Zusammenarbeit mit Refugees on Rails. Mit freundlicher Unterstützung des Verein der Freunde – Haus der Kulturen der Welt e.V.";
+"about_two"="Die App beruht auf dem Mapping-Projekt Arriving in Berlin - a map made by refugees vom Haus der Kulturen der Welt und Haus Leo (Berliner Stadtmission). Das Projekt ist Teil der Initiative Berlin Mondiale.";
+"about_three"="Die App nutzt Mapbox SDK und ist Open Source (Dokumentation auf GitHub)";
+"about_four"="Alle Icons wurde von den Teilnehmer*innen des Mapping-Projektes erstellt. (Quelle: Freepik von www.flaticon.com )";
+
+"contact_text"="Haben Sie Fragen und Anregungen? Oder gibt es einen interessanten Ort, den wir vergessen haben? Dann schreiben Sie uns einfach eine Nachricht.";
+"app_name"="Arriving";
+"send_email"="Senden";
+"main_title"="Arriving in Berlin";
+"download_button_message"="Das Datenvolumen des Downloads beträgt 90 MB. Stellen Sie sicher, dass Sie mit einem Wlan-Netz verbunden sind. Mit diesem Download laden Sie ausschließlich die deutsche Sprachversion der Karte herunter. Möchten Sie fortfahren?";
+"cancel"="Abbrechen";
+"continue_button"="Weiter";
+"download_again_message"="Möchten Sie Ihre Offline-Karte aktualisieren? Das Datenvolumen des Downloads beträgt 90 MB. Stellen Sie sicher, dass Sie mit einem Wlan-Netz verbunden sind. Möchten Sie fortfahren?";
+"google_maps_popup"="Sie werden zu Google Maps oder Apple Maps weitergeleitet.";
+"no_location"="No location found";
+"select_category"="Wählen Sie eine Kategorie im Menü auf der linken Seite aus.";
+"terms_text"="Um die Arriving in Berlin App nutzen zu können, lesen und akzeptieren Sie bitte die Datenschutzerklärung der Arriving in Berlin App sowie die Allgemeinen Geschäftsbedingungen. Mit „Akzeptieren“ erklären Sie Ihre Zustimmung und können fortfahren. Wenn Sie nicht fortfahren und die App schließen möchten, wählen Sie „Ablehnen und Schließen“.";
+"terms_agree"="Akzeptieren";
+"terms_decline"="Ablehnen und Schließen";
+"info_wifi_text"="Mit der Arriving in Berlin App finden Sie darüberhinaus freie und kostenlose Netzwerke des Freifunknetzes Berlin.";
+
+
+
+"back"="Zurück";
+"legal_title"="Impressum";
+"legal_text"="<b>Haus der Kulturen der Welt</b></br>John-Foster-Dulles-Allee 10</br>10557 Berlin</br>Telefon +49 30 397 87-0</br>Telefax +49 30 394 86 79</br>E-Mail: info@hkw.de</br></br><b>Das Haus der Kulturen der Welt ist ein Geschäftsbereich der Kulturveranstaltungen des Bundes in </br>Berlin (KBB) GmbH.</b></br></br>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH</br>Schöneberger Straße 15 10963 Berlin</br>Telefon +49 30 26 397-0</br>Telefax +49 30 26 397-397</br>E-Mail: info@kbb.eu</br></br><b>Geschäftsführer der KBB:</b></br>Dr. Thomas Oberender (Geschäftsführer der Berliner Festspiele)</br>Charlotte Sieben (Kaufmännische Geschäftsführerin der KBB GmbH)</br>Dr. Bernd M. Scherer (Geschäftsführer des Hauses der Kulturen der Welt)</br>Dieter Kosslick (Geschäftsführer der Internationalen Filmfestspiele Berlin)</br>Sie erreichen die Geschäftsführer unter folgender Anschrift:</br>Schöneberger Straße 15 10963 Berlin</br>Verantwortliche nach § 55 Abs. 2 RStV</br>Bernd Scherer</br>John-Foster-Dulles-Allee 10</br>10557 Berlin</br>E-Mail: scherer@hkw.de</br></br><b>Handelsregister</b></br>Amtsgericht Charlottenburg</br>Handelsregisternummer: 96 HRB 29357 </br><br><b>Umsatzsteuer-Identifikationsnummer nach § 27a UStG</b></br>DE 136 78 27 46";
+
+"privacy_title"="Datenschutzerklärung";
+"privacy_text"="Arriving in Berlin (nachfolgend <i>wir</i>) nimmt den Schutz Ihrer personenbezogenen Daten sehr ernst. Mit diesen Datenschutzbestimmungen informieren wir Sie über den Umgang mit Ihren personenbezogenen Daten.</br></br><b>Anwendungsbereich</b></br>Diese Datenschutzerklärung gilt nur für die Nutzung der App „Arriving in Berlin“, nachfolgend „App“. Nutzen Sie eine andere App oder besuchen Sie eine andere Webseite, gelten die Datenschutzbestimmungen des jeweiligen App- bzw. Webseitenbetreibers. Dies gilt auch dann, wenn wir durch einen Link auf die Webseite Dritter verweisen oder wenn ein Dienst Dritter auf unserer Webseite eingebettet ist. Wir empfehlen Ihnen, sich dann auf der verlinkten Webseite über den Umgang mit personenbezogenen Daten zu informieren.</br></br><b>Personenbezogene Daten</b></br>Personenbezogene Daten sind Angaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Zu Ihren personenbezogenen Daten gehören sämtliche Daten, die eine Identifikation Ihrer Person zulassen, wie z.B. Ihr Name, Ihre Anschrift, Ihre Telefonnummer oder Ihre E-Mail-Adresse.</br></br><b>Erhebung und Weitergabe Ihrer personenbezogenen Daten</b></br>Die App verwendet das Softwareentwicklungssystem Mapbox. Folgende Daten werden erhoben und an Mapbox gesandt:</br>•    Inbetriebnahme der App</br>•    Laden der Landkarte: Der Ladevorgang als solches, der jeweilige Kartenausschnitt sowie die Vergrößerungsstufe</br>•    Schwenken der Landkarte</br>•    Zoomen der Landkarte</br>•    Drehen und Kippen der Landkarte</br>•    Standort: Geo-Koordinate und Zeitstempel (werden mit zeitlichen Zwischenräumen erhoben)</br>•    Geschwindigkeit und Kurs</br>•    Verweildauer am jeweiligen Ort</br>Die erhobenen Standortdaten werden nicht mit solchen Daten, die eine Identifizierung der Person ermöglichen (wie etwa Name, E-Mail-Adresse, IP-Adresse oder Telefonnummer), verbunden. Zudem werden folgende Daten an Mapbox gesandt:</br>•    Sitzungsbezeichner: Universally Unique Identifier (UUID) zeichnen die Installation der App sowie ihre Nutzung</br>•    Anwendungskennung</br>•    Gerätedaten, Gerätemodell</br>•    Verbindungsdaten: Verbindung des Geräts über WLAN, Cat5-Kabel oder Mobilfunk</br>•    Geräteausrichtung, Bildschirmauflösung und Schriftartenskalierung</br>•    Zeitstempel</br>Diese Daten werden durch nicht kontinuierliche Prozesse erhoben und asynchron an Mapbox gesandt. Mapbox ist ein Unternehmen mit Sitz in den USA. Die Verarbeitung Ihrer personenbezogenen Daten erfolgt daher in den USA.</br></br><b>Zwecke der Datenverarbeitung </b></br>Mapbox verwendet die erhobenen Daten zur internen Diagnose und analytischen Zwecken. Ein besonderes Anliegen ist die stetige Verbesserung des Kartenmaterials und der angebotenen Dienstleistungen an Partnerunternehmen sowie deren Kunden.</br>Weitere Informationen zu der Datenschutzhandhabung von Mapbox finden Sie hier: https://www.mapbox.com/privacy/</br></br><b>Sicherheit der erfassten Daten</b></br>Personenbezogene Daten, die zwischen Ihnen und Mapbox über unsere App ausgetauscht werden, werden grundsätzlich über sichere Verbindungen übertragen, die dem aktuellen Stand der Technik entsprechen.</br></br>Zu Ihrer eigenen Sicherheit empfehlen wir Ihnen, sich gegen unbefugten Zugang zu Ihrem Passwort und Ihrem Handy zu schützen.</br></br><b>Widerrufsrecht</b></br>Für den Fall, dass Sie uns eine Einwilligung zur Erhebung, Verarbeitung oder Nutzung Ihrer Daten erteilen oder erteilt haben, können Sie diese Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. In diesem Fall nutzen Sie die opt-out Funktion in der unteren linken Ecke der Karte.</br></br><b>Auskunftsrecht, Löschung und Berichtigung</b></br>Ihnen steht ein unentgeltliches Auskunftsrecht bezüglich der über Sie gespeicherten personenbezogenen Daten und ferner ein Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung zu. Wenn Sie Auskunft über Ihre personenbezogenen Daten beziehungsweise deren Korrektur oder Löschung wünschen oder weitergehende Fragen über die Verwendung Ihrer Mapbox überlassenen personenbezogenen Daten haben, kontaktieren Sie bitte die Datenschutzbeauftragte der KBB GmbH unter datenschutz@kbb.eu.</br></br><b>Gültigkeit der Datenschutzerklärung</b></br>Die Datenschutzerklärung ist aktuell gültig und datiert von Mai 2017.</br></br><b>Verantwortliche Stelle</b></br>Verantwortlich für die Erhebung, Verarbeitung und Nutzung Ihrer Daten ist die</br></br>Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH</br>Schöneberger Straße 15</br>10963 Berlin</br>Telefon +49 30 26 397-0</br>Telefax +49 30 26 397 397</br>E-Mail: info@kbb.eu</br></br>Datenschutzbeauftragte der KBB: datenschutz@kbb.eu";
+
+"terms_title"="Nutzungsbedingungen";
+"terms_details_txt"="Arriving in Berlin ist eine App, die in Kooperation des Hauses der Kulturen der Welt und Refugees on Rails unter der freundlichen Unterstützung von Freunden des Hauses der Kulturen der Welt entstanden ist. Die App enthält hilfreiche Informationen über Berlin für Geflüchtete und Neuankommende.</br></br>Nutzerinnen dieser App müssen 13 Jahre oder älter sein. Damit Sie die App nutzen können, müssen Sie den Nutzungsbedingungen zustimmen.</br><i>Arriving in Berlin</i> bemüht sich, die in der Karte gespeicherten Informationen von Zeit zu Zeit zu aktualisieren. Den aktuellen Stand des Kartenmaterials können Sie hier erfahren. https://arriving-in-berlin.de/impressum/arriving-in-berlin-app/";
+
+"offline_message_2"="Verbinden Sie Ihr Smartphone mit dem Internet, um diese Funktion nutzen können.";
+"project_title"="Projekt";
+"project_text"="Arriving in Berlin - App ist eine digitale Karte mit hilfreichen Informationen für Geflüchtete und Neuankommende in Berlin. Erfahren Sie hier mehr über das Projekt: https://arriving-in-berlin.de/app/";
+
+"email_error" = "Fehler";
+"email_error_message" = "Es konnte kein Email-Programm gefunden werden. Bitte nutzen Sie folgende Adresse, um Kontakt aufzunehmen: arriving-in-berlin@hkw.de ";
+
+
+
+
+
+

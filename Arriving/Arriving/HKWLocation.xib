@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="ipad12_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HKWLocationView" customModule="Arriving" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="iN0-l3-epB" id="MjJ-yT-4xJ"/>
+                <outlet property="popupButton" destination="vIU-WC-C4t" id="wBV-P8-5Zx"/>
+                <outlet property="popupText" destination="4ia-nW-a7r" id="JlM-Nn-qDv"/>
+                <outlet property="popupTitle" destination="tmp-O9-OeK" id="xch-qX-ezh"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="346" height="326"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zuy-AC-wgv">
+                    <rect key="frame" x="240" y="280" width="22" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="Dem-sf-YT0"/>
+                        <constraint firstAttribute="width" secondItem="Zuy-AC-wgv" secondAttribute="height" multiplier="11:15" id="Uun-Qc-GQO"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="15"/>
+                    <state key="normal" backgroundImage="walk_route">
+                        <color key="titleColor" red="0.21176470589999999" green="0.4431372549" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="walkRoute:" destination="-1" eventType="touchUpInside" id="spa-Aa-ivL"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Double Title For GERMANNNMADDNESS ssss" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="13" translatesAutoresizingMaskIntoConstraints="NO" id="tmp-O9-OeK">
+                    <rect key="frame" x="20" y="20" width="271" height="36"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" editable="NO" text="Lorem ipsum dolor sit er elit " textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="4ia-nW-a7r">
+                    <rect key="frame" x="16" y="64" width="314" height="207"/>
+                    <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
+                </textView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vIU-WC-C4t">
+                    <rect key="frame" x="296" y="0.0" width="50" height="50"/>
+                    <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="QBj-1N-gDq"/>
+                        <constraint firstAttribute="height" constant="50" id="ZCk-pb-MGX"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                    <inset key="titleEdgeInsets" minX="10" minY="1" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="X">
+                        <color key="titleColor" red="0.21176470589999999" green="0.4431372549" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fWl-43-qaJ">
+                    <rect key="frame" x="292" y="279" width="24" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="fWl-43-qaJ" secondAttribute="height" multiplier="3:4" id="DYb-HZ-vKu"/>
+                        <constraint firstAttribute="height" constant="32" id="mBf-Gr-uv8"/>
+                    </constraints>
+                    <state key="normal" backgroundImage="train_route"/>
+                    <connections>
+                        <action selector="publicTransport:" destination="-1" eventType="touchUpInside" id="RgG-Ff-fEy"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="tmp-O9-OeK" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="1iV-Ck-1fX"/>
+                <constraint firstAttribute="trailing" secondItem="tmp-O9-OeK" secondAttribute="trailing" constant="55" id="HgG-bD-53e"/>
+                <constraint firstItem="4ia-nW-a7r" firstAttribute="top" secondItem="tmp-O9-OeK" secondAttribute="bottom" constant="8" id="KcA-tl-xZt"/>
+                <constraint firstItem="4ia-nW-a7r" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="Lds-PV-vov"/>
+                <constraint firstAttribute="trailing" secondItem="fWl-43-qaJ" secondAttribute="trailing" constant="30" id="OzJ-kt-VgE"/>
+                <constraint firstItem="fWl-43-qaJ" firstAttribute="top" secondItem="4ia-nW-a7r" secondAttribute="bottom" constant="8" id="Ydw-Ia-81v"/>
+                <constraint firstAttribute="bottom" secondItem="Zuy-AC-wgv" secondAttribute="bottom" constant="16" id="bYG-dG-Us4"/>
+                <constraint firstItem="tmp-O9-OeK" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="20" id="eQj-ug-LsS"/>
+                <constraint firstAttribute="bottom" secondItem="fWl-43-qaJ" secondAttribute="bottom" constant="15" id="kIn-XD-3FH"/>
+                <constraint firstAttribute="trailing" secondItem="4ia-nW-a7r" secondAttribute="trailing" constant="16" id="ktM-LV-lnM"/>
+                <constraint firstItem="vIU-WC-C4t" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="nIz-E6-LYw"/>
+                <constraint firstAttribute="trailing" secondItem="vIU-WC-C4t" secondAttribute="trailing" id="sQK-eP-XQg"/>
+                <constraint firstItem="fWl-43-qaJ" firstAttribute="leading" secondItem="Zuy-AC-wgv" secondAttribute="trailing" constant="30" id="yeb-KW-5Df"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-271" y="-210"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="train_route" width="26" height="41"/>
+        <image name="walk_route" width="22" height="31"/>
+    </resources>
+</document>

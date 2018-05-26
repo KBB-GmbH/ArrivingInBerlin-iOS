@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireSwiftyJSON (1.0.0):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 3.0)
+  - Localize-Swift (2.0.0)
+  - Mapbox-iOS-SDK (3.6.2)
+  - MapboxDirections.swift (0.10.6):
+    - Polyline (= 4.1.1)
+  - Polyline (4.1.1)
+  - PromiseKit/Alamofire (4.4.0):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (4.4.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AlamofireSwiftyJSON
+  - Localize-Swift (~> 2.0)
+  - Mapbox-iOS-SDK (~> 3.6)
+  - MapboxDirections.swift
+  - PromiseKit/Alamofire
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireSwiftyJSON: 78908b766483a28aa5cc90fd191a687467042973
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  Mapbox-iOS-SDK: 1224c5ba79dc9bf9a80bfcc33ae320f5d672a42f
+  MapboxDirections.swift: fbe95bd11c66339c1ef8b96301464f326394ac0d
+  Polyline: 381d1e699fd12508f97cfc468478dfbab67edf1f
+  PromiseKit: ecf5fe92275d57ee77c9ede858af47a162e9b97e
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 7a881555402b46bf51adafc655cb64e72f202689
+
+COCOAPODS: 1.3.1
